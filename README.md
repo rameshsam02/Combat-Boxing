@@ -2,7 +2,7 @@
 
 This repository implements a **multi-agent reinforcement learning system** for the Atari Boxing environment. The goal of this project is to create two intelligent agents that compete against each other in the boxing game, learn from their interactions, and improve their performance over time. The agents are trained using **deep Q-learning** and work in parallel to ensure dynamic and competitive gameplay.
 
-![](https://github.com/rameshsam02/Combat-Boxing/Boxing.gif)
+![Boxing](https://github.com/rameshsam02/Combat-Boxing/Boxing.gif)
 ---
 
 ## 📜 Table of Contents
