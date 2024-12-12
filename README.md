@@ -5,17 +5,6 @@ This repository implements a **multi-agent reinforcement learning system** for t
 ![Boxing Environment](./Boxing.gif)
 ---
 
-## 📜 Table of Contents
-
-- [Features](#-features)
-- [Directory Structure](#-directory-structure)
-- [Installation](#️-installation)
-- [Usage](#-usage)
-- [Technical Details](#️-technical-details)
-- [Results](#-results)
-- [Future Work](#-future-work)
----
-
 ## 🌟 Features
 
 - **Multi-Agent System**: Two agents trained simultaneously in a competitive environment.
